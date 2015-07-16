@@ -1,3 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Git creates metadata for the files / and a file history.
+
+How can you use the staging area to make sure you have one commit per logical change?
+After making a bunch of changes, you could stage files in the staging area that represent one logical change before checking them in.
